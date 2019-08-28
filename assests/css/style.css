@@ -1,0 +1,21 @@
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 25px;
+  }
+
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .free {
+   margin-top: 70px;
+ }
+
+ /* .list {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ } */
